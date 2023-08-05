@@ -19,9 +19,9 @@ After training the model, evaluate its performance using the validation dataset.
 
 # 7.Testing the Model:
 Once the model is fine-tuned and has achieved satisfactory performance on the validation set, evaluate its performance on the testing dataset to get an unbiased estimate of its accuracy.
+# 8.Deployment: 
+After successfully training and testing the model, you can deploy it as an application or integrate it into a healthcare system where it can be used to classify chest X-ray images as COVID-19 positive or negative.
 # RESULT:
 Proposed CNN model achieves 91% accuracy in X-ray image classification, effectively detecting
 COVID-19, normal, and pneumonia cases with high precision.
 Feel free to use this project and tune it further for your personal projects
-# 8.Deployment: 
-After successfully training and testing the model, you can deploy it as an application or integrate it into a healthcare system where it can be used to classify chest X-ray images as COVID-19 positive or negative.
